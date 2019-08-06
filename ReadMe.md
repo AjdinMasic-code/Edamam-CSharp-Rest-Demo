@@ -17,7 +17,11 @@
   How to call the Rest Request App:
   
   <div>
-    Response response = await RestApp.Request("GET", "search term(example: chicken)");
+    <pre>
+      <code class="language-cs">
+        Response response = await RestApp.Request("GET", "search term(example: chicken)");
+      </code>
+     </pre>
   </div>
   
   That's pretty much all you have to do to communicate with Edamam API. However, if you want to further process the data as you'll see in the testingEdamam Project, you'll have to take additional steps in order to achieve that.
@@ -29,7 +33,9 @@
 <p>
   In the case below I needed to get the hits key in the response that Edamam sends back to me. Hits contains all of the recipe information that I need.
 </p>
-<pre><code class='language-cs'>
+
+<pre>
+  <code class='language-cs'>
     //Create a JObject from the string jsonResponse
     JObject recipes = JObject.Parse(jsonResponse);
     
@@ -43,4 +49,5 @@
         //Due to our set toLimit in the RestRequest application we will at maximum only get 25 recipes back.
         recipeList.Add(recipeArr[i]["recipe"]["label"].ToString());
     }
-</code></pre>
+  </code>
+</pre>
