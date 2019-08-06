@@ -1,0 +1,12 @@
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\obj\Debug\testingEdamam.csprojAssemblyReference.cache
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\obj\Debug\testingEdamam.csproj.CoreCompileInputs.cache
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\bin\Debug\testingEdamam.exe.config
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\bin\Debug\testingEdamam.exe
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\bin\Debug\testingEdamam.pdb
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\bin\Debug\RestRequest.dll
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\bin\Debug\RestRequest.pdb
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\obj\Debug\testingEdamam.csproj.CopyComplete
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\obj\Debug\testingEdamam.exe
+C:\Users\ajdin\source\repos\testingEdamam\testingEdamam\obj\Debug\testingEdamam.pdb

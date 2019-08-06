@@ -1,0 +1,5 @@
+c:\users\ajdin\source\repos\RestRequest\RestRequest\bin\Debug\RestRequest.dll
+c:\users\ajdin\source\repos\RestRequest\RestRequest\bin\Debug\RestRequest.pdb
+c:\users\ajdin\source\repos\RestRequest\RestRequest\obj\Debug\RestRequest.csproj.CoreCompileInputs.cache
+c:\users\ajdin\source\repos\RestRequest\RestRequest\obj\Debug\RestRequest.dll
+c:\users\ajdin\source\repos\RestRequest\RestRequest\obj\Debug\RestRequest.pdb
